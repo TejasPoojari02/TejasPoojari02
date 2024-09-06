@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TejasPoojari02
-- 👀 I’m interested in Programming Language
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me - tejaspoojari02@gmail.com
