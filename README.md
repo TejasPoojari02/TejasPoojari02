@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TejasPoojari02
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on Python Projects
+- 👀 I’m interested in Software Development and Automation
+- 🌱 I’m currently learning Java Script and Typescript
+- 💞️ I’m looking to collaborate on Python and Automation Projects
 - 📫 How to reach me - tejaspoojari02@gmail.com
 
 <!---
